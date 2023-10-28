@@ -2,8 +2,8 @@
 # Kaggle House Price Prediction Competition Submission
 
 ## Team/Author Information
-- **Team/Author Name:** [Your Name or Team Name]
-- **Kaggle Profile:** [Link to your Kaggle profile]
+- **Team/Author Name:** Vijay Babu Kommuri
+- **Kaggle Profile:** www.kaggle.com/babu512 
 
 ## Introduction
 In this Kaggle competition, our goal was to predict house prices based on a set of input features. This competition is a classic regression problem, and we aimed to build a robust and accurate model to make the best predictions possible.
@@ -28,10 +28,10 @@ In this Kaggle competition, our goal was to predict house prices based on a set 
 ## Results
 
 ### Model Performance
-- Our best-performing model achieved an [insert RMSE/MAE/MSE score] on the Kaggle test set. We believe this reflects a robust predictive ability.
+- Our best-performing model achieved an 0.14408 on the Kaggle test set. We believe this reflects a robust predictive ability.
 
 ### Leaderboard Ranking
-- Our model's performance on the Kaggle public leaderboard was [insert leaderboard position] out of [insert total number of participants]. Please note that this performance may vary on the private leaderboard.
+- Our model's performance on the Kaggle public leaderboard was 1888 out of 4472. Please note that this performance may vary on the private leaderboard.
 
 ## Conclusion
 
@@ -46,6 +46,3 @@ In this Kaggle competition, our goal was to predict house prices based on a set 
 
 - We want to thank Kaggle for hosting this competition, providing valuable datasets, and enabling us to learn and grow as data scientists.
 
----
-
-This template provides a structured and informative way to describe your Kaggle competition submission. Customize it with your team or author information, model details, and results to create a compelling submission description.
